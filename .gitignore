@@ -1,1 +1,3 @@
 tmp/todd.txt
+tmp/*
+*.txt
